@@ -78,12 +78,12 @@ This project now integrates blockchain technology to record and retrieve the use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Carbon-Footprint-Calculator-App.git
+   git clone https://github.com/yourusername/Carbon-Footprint-Calculator_App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Carbon-Footprint-Calculator-App
+   cd Carbon-Footprint-Calculator_App
    ```
 
 3. Install the necessary dependencies:
